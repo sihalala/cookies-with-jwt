@@ -1,0 +1,11 @@
+.alert {
+    display: block;
+    position: absolute;
+    top: 50px;
+    width: 80%;
+    left: -40%;
+    margin-left: 50%;
+}
+.orange {
+    color: orange;
+}
